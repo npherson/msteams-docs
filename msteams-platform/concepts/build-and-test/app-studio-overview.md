@@ -14,9 +14,7 @@ ms.topic: overview
 App Studio makes it easy to start creating or integrating your own Microsoft Teams apps, whether you develop custom apps for your enterprise or SaaS applications for teams around the world by streamlining the creation of the manifest and package for your app and providing useful tools like the Card Editor and a React control library.
 
 > [!IMPORTANT]
-> App Studio is currently not available in the following types of Teams orgs:
->
-> * Government Community Cloud (GCC)
+> App Studio is currently not available in the following types of Office 365 for U.S. Government tenants:
 > * GCC High
 > * DoD
 
